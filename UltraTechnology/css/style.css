@@ -1,0 +1,159 @@
+.navbar-brand > img{
+	width:70px;
+}
+.navbar-brand{
+	padding: 0px;
+}
+.resolucao{
+	width: 50%;
+	height: auto;
+	margin:auto;
+}
+.navbar{
+	background: #c1c1c1;
+}
+.navbar-toggle>span{
+	background: red;
+}
+.navbar-nav>li>a:focus{
+	color:black;
+	background:green;
+}
+.navbar-nav>li>a:hover{
+	color:black;
+	background:red;
+}
+
+h2,h3,h4{
+	text-align: center;
+	color:black;
+	margin-top:2.1em;
+}
+body{
+	background:white;
+}
+.carousel{
+	margin-top:2.1em;
+	margin-bottom: 3em;
+}
+.imagens{
+	width: 60%;
+	margin-left: 20%;
+	border-radius: 10%;
+
+}
+.riscar{
+	text-decoration: line-through;
+}
+.borda{
+border:1px solid #f2f2f2;
+padding: 0;
+
+}
+.EscritaText{
+
+	font-size: 1.5em;
+	color: #000000;
+	text-align: justify;
+}
+.EscritaValor{
+
+	font-size: 2em;
+	color: #000000;
+	text-align: justify;
+}
+.Fundo{
+	background: #c1c1c1;
+	padding: 1em;
+}
+a{
+	color:#000000;
+}
+.carousel-control.right{
+	background-image: linear-gradient(to right,rgba(0,0,0,.0001) 0,rgb(119, 118, 118) 100%);
+}
+.carousel-control.left{
+	background-image: linear-gradient(to left,rgba(0,0,0,.0001) 0,rgb(97, 97, 97) 100%);
+}
+.final{
+	background:#c1c1c1;
+	margin-bottom:2.1em;
+}
+.informacoes{
+	
+	font-size: 1em;
+	color:#000000;
+	text-align: center;
+}
+.informacoes2{
+	
+	font-size: 2em;
+	color:#000000;
+	text-align: center;
+}
+.logos{
+	width: 50%;
+	display: block;
+	margin:auto;
+}
+.exececao{
+	margin-top:0 !important;
+}
+.caroseltext{
+	text-align: center;
+	font-size: 2em;
+
+}
+.carousel-indicators li{
+	border: 1px solid #000000;
+	margin-bottom: -2.5em !important;
+}
+#alinhar{
+	margin-top: 5em;
+	margin-bottom:  5em;
+}
+
+
+button{
+	width: 10em;
+	height: 2em;
+	display: block;
+	margin: auto;
+}
+
+.imagenpagina2{
+	display: block;
+	width: 80%;
+	margin:auto;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	
+}
+.teste{
+	border-right:2px solid #000000;
+}
+.centralizartexto{
+
+	margin-top: 10%;
+	margin:auto;
+}
+.bordaproduto{
+	border:2px solid #000000;
+	display: block;
+	margin:auto;
+}
+.EscritaText3{
+
+	font-size: 1.5em;
+	color: #000000;
+	text-align: center;
+}
+.EscritaText2{
+
+	font-size: 1em;
+	color: #000000;
+	text-align: center;
+}
+.descricao{
+	text-align: justify;
+}
